@@ -1,3 +1,6 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HarrisonKawagoe3960X)](https://github.com/anuraghazra/github-readme-stats)
-![Neos21 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrisonKawagoe3960X)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarrisonKawagoe3960X&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarrisonKawagoe3960X&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarrisonKawagoe3960X&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarrisonKawagoe3960X&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarrisonKawagoe3960X&theme=default)
 
